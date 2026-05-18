@@ -1,0 +1,28 @@
+let t = true;
+let f = false;
+
+print t;
+print f;
+
+let x = 10;
+let y = 20;
+
+print x < y;
+print x > y;
+print x == y;
+print x != y;
+print x <= 10;
+print x >= 11;
+
+let flag = true;
+if (flag == true) {
+    print 1;
+} else {
+    print 0;
+}
+
+let count = 5;
+while (count > 0) {
+    print count;
+    count = count - 1;
+}

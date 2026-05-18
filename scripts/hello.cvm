@@ -1,0 +1,11 @@
+let x = 42;
+let a = 10;
+let b = 3;
+
+print x;
+print x + 8;
+print x * 2;
+print a + b;
+print a - b;
+print a * b;
+print a / b;

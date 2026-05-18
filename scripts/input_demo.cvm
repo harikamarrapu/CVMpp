@@ -1,0 +1,16 @@
+let a = 0;
+let b = 0;
+
+input a;
+input b;
+
+let sum  = a + b;
+let diff = a - b;
+let prod = a * b;
+
+print sum;
+print diff;
+print prod;
+
+let isEqual = a == b;
+print isEqual;
